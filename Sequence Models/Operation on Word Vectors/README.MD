@@ -1,0 +1,2 @@
+# Operation on Word Vectors
+Glove file is missing from the data folder as it's too large. It can be found [here](https://kbxworjdtivibdvllpqdih.coursera-apps.org/tree/Week%202/Word%20Vector%20Representation/data)
